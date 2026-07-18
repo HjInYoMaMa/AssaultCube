@@ -6,6 +6,10 @@ Internal DLL cheat for Assault Cube with ESP, Aimbot, and various memory hacks
 
 It's been a while since I last made anything, so I thought, why not do an internal cheat for AssaultCube v 1.2.0.2? Anyways, maybe I will do something more in the future, but for now, enjoy.
 
+Screenshots:
+https://i.imgur.com/044cgRg.png - Menu
+https://i.imgur.com/VjKDhma.jpeg - In action
+
 ## 🚀 Features
 
 ### 🛡️ **ESP (Wallhack)**
@@ -18,7 +22,6 @@ It's been a while since I last made anything, so I thought, why not do an intern
 - Snaplines to enemies
 
 ### 🎯 **Aimbot**
-- Auto-aim at enemy heads
 - **Control** key activation
 - 150px FOV circle (configurable)
 - Targets only enemies inside FOV
