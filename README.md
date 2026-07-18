@@ -73,9 +73,3 @@ It's been a while since I last made anything, so I thought, why not do an intern
 - Any DLL injector (Xenos, Extreme Injector, Cheat Engine)
 
 ---
-
-### 1. Download
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/axiom-ac-cheat.git
-cd axiom-ac-cheat
